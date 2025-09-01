@@ -1,2 +1,2 @@
-FastUi::Engine.routes.draw do
+EasyUi::Engine.routes.draw do
 end

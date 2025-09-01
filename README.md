@@ -1,5 +1,5 @@
-# FastUi
-Short description and motivation.
+# EasyUi
+Is a Rails gem that provides a set of pre-built UI components for your Rails application.
 
 ## Usage
 How to use my plugin.
@@ -8,7 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "fast_ui"
+gem "easy_ui"
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem install fast_ui
+$ gem install easy_ui
 ```
 
 ## Contributing
