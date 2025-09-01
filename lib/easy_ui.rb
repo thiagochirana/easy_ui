@@ -1,3 +1,5 @@
+require "stimulus-rails"
+
 require "easy_ui/version"
 require "easy_ui/engine"
 

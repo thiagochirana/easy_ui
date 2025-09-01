@@ -22,9 +22,6 @@ Gem::Specification.new do |spec|
     Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
   end
 
-  spec.add_dependency "rails", ">= 8.0.2.1"
-  spec.add_dependency "view_component", "~> 4.0"
   spec.add_dependency "stimulus-rails", "~> 1.2"
-  spec.add_dependency "tailwindcss-rails", "~> 4.3"
   spec.add_dependency "tailwindcss-ruby", "~> 4.1"
 end
